@@ -1,0 +1,73 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# =============== #
+# Asset Bundles   #
+# =============== #
+*.unitypackage
+
+# ============================ #
+# Visual Studio / Rider Config #
+# ============================ #
+[Ee]xported[Oo]bj/
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ================== #
+# OS Generated Files #
+# ================== #
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ======================== #
+# Additional Unity Ignored #
+# ======================== #
+/MemoryCaptures/
+/*.swp
+*.bak
+*.tmp
+*.temp
+*.diff
+*.patch
+*.meta~
+
+# ======================= #
+# Large Temporary Files   #
+# ======================= #
+*.log
+*.cache
+*.stackdump
+*.pid
+*.gz
+
+# ============ #
+# Large Files  #
+# ============ #
+/LargeData/

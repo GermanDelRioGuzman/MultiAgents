@@ -1,0 +1,2 @@
+venv/ 
+#we ignore the virtual environment folder, for it is not necessary to be tracked by git

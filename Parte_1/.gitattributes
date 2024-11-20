@@ -1,0 +1,2 @@
+.*exit filter=lfs diff=lfs merge=lfs -text
+*.extensión filter=lfs diff=lfs merge=lfs -text
